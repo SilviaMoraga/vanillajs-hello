@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-family: "Arial", sans-serif;
+  font-style: bold;
+  font-size: 60px;
+}
